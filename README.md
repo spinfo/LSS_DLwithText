@@ -1,1 +1,1 @@
-# LSS_DLwithText
+# Late Summer School - Deep Learning with Text
